@@ -1,0 +1,28 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.vsidx
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+packages/
+*.nupkg
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Database files
+*.mdf
+*.ldf
+*.bak
+
+# Sensitive files
+.env
